@@ -1,13 +1,21 @@
 project:
   type: website
+  output-dir: docs
+  
+execute:
+  echo: true
+  warning: true
+  message: true
 
 website:
-  title: "sbdl"
+  title: "SBDL"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - readme.qmd
+      - data.qmd
+      - tutorials.qmd
 
 format:
   html:

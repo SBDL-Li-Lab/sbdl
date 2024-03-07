@@ -1,12 +1,30 @@
 ---
-title: "Social and Behavioral Development Lab (SBDL) Main Directory"
+toc: false
 ---
-
-# Overview of SBDL
-
-## Principle Investigator
+![](./images/sbdl_home.jpg)
 
 
-```{r}
-1 + 1
-```
+# SBDL Main Directory
+- Public website: <https://lilab.waisman.wisc.edu/>
+
+## Personal Directories
+
+
+### Current Grad Students
+
+
+**Quanfa (Frank) He**
+
+- Email: <qhe37@wisc.edu>
+- [Github](https://github.com/hefrank9568)
+
+
+**A. Brooke Sasia**
+
+- Email: <sasia@wisc.edu>
+
+
+**LiChen Dong**
+
+- Email: <ldong54@wisc.edu>
+- [Personal Website](https://github.com/lichendong/personal_web)
